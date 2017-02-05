@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./build/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es6",
+        "jsx": "react"
+    }
+}

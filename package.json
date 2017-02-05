@@ -1,0 +1,27 @@
+{
+  "name": "redux-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^15.0.6",
+    "@types/react-dom": "^0.14.22",
+    "highlight.js": "^9.9.0",
+    "raw-loader": "^0.5.1",
+    "react": "^15.4.2",
+    "react-addons-css-transition-group": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux-saga": "^0.14.3"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.1.5",
+    "webpack": "^2.2.1"
+  }
+}

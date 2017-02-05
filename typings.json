@@ -1,0 +1,12 @@
+{
+  "globalDependencies": {
+    "highlight.js": "registry:dt/highlight.js#9.1.0+20161227120821",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-saga": "registry:dt/redux-saga#0.9.1+20160703120921"
+  },
+  "dependencies": {
+    "react-addons-css-transition-group": "registry:dt/react-addons-css-transition-group#15.0.0+20170123203653",
+    "react-addons-transition-group": "registry:dt/react-addons-transition-group#0.14.0+20170123203653",
+    "react-redux": "registry:dt/react-redux#4.4.0+20170123203653"
+  }
+}
