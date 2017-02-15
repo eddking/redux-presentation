@@ -1,0 +1,17 @@
+
+// Global styles go in this file
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Sorts+Mill+Goudy|Source+Code+Pro');
+
+@font-face {
+    font-family: "nevis";
+    src: local("nevis"), url('../../fonts/nevis-webfont.eot');
+    src: url('../../fonts/nevis-webfont.woff') format('woff'),
+         url('../../fonts/nevis-webfont.ttf') format('truetype'),
+         url('../../fonts/nevis-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* font-family: 'Sorts Mill Goudy', serif; */

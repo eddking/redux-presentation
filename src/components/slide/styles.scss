@@ -1,0 +1,41 @@
+
+.slide {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.2em;
+    color: rgb(51, 51, 51);
+
+    /* padding-left: 10%; */
+    /* padding-right: 10%; */
+
+    h1 {
+        font-family: "nevis";
+        text-align: center;
+        font-size: 200%;
+        padding: 0.4em;
+        color: rgb(51, 51, 51);
+    }
+
+    .content {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    ul {
+        list-style: disc;
+        li {
+            margin-bottom: 0.3em;
+        }
+    }
+
+    code {
+        font-family: "Source Code Pro";
+    }
+}
